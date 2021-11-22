@@ -1,0 +1,5 @@
+{
+    "name": "sample_plugin",
+    "class": "SamplePlugin",
+    "base_class": "SamplePluginInterface"
+}
