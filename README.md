@@ -8,6 +8,6 @@ cd build
 cmake ..
 make
 make install #これを忘れないこと
-cd build/bin
+cd bin
 ./main
 ```
